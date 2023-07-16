@@ -12,7 +12,7 @@ This repository contains an Android application built to enhance women's safety.
 
 The application is built using Java in Android Studio and leverages the device's sensors, audio recording capabilities, and location services to provide a quick and efficient safety solution for women. The codebase emphasizes modularity, maintainability, and user-friendly interfaces, ensuring ease of use for both developers and end-users.
 ```bash
-  git clone https://github.com/kalios-01/SheShield
+  git clone https://github.com/abhig1599/She_Shield.git
 ```
 ## Features
 
